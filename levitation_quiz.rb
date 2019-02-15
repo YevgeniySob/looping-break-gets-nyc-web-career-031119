@@ -5,7 +5,7 @@ def levitation_quiz
     input = gets.chop
     break if input == "Wingardium Leviosa"
   end
-  puts ""
+  puts "You passed the quiz!"
 end
 
 
